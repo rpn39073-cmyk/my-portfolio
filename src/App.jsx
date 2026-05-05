@@ -256,6 +256,11 @@ export default function App() {
                 <p>Modern cafe ordering interface with a sleek, responsive design and intuitive user experience.</p>
                 <a href="https://coffee-shop-tau-ruddy.vercel.app/" target="_blank" rel="noreferrer" className="btn" style={{ padding: '0.4rem 0.8rem', fontSize: '0.8rem' }}>Initialize App</a>
               </div>
+              <div className="project-card">
+                <h3>3D Restaurant Website</h3>
+                <p>Interactive 3D dining experience showcasing a futuristic restaurant environment.</p>
+                <a href="https://v0-restaurant-3d-website-ebon.vercel.app/" target="_blank" rel="noreferrer" className="btn" style={{ padding: '0.4rem 0.8rem', fontSize: '0.8rem' }}>Initialize App</a>
+              </div>
             </div>
           </div>
 
