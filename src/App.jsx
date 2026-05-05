@@ -246,6 +246,11 @@ export default function App() {
                 <p>High-performance full-stack web application with seamless UI/UX and secure checkout integration.</p>
                 <a href="https://aether-ecommerce.onrender.com/" target="_blank" rel="noreferrer" className="btn" style={{ padding: '0.4rem 0.8rem', fontSize: '0.8rem' }}>Initialize App</a>
               </div>
+              <div className="project-card">
+                <h3>Travel Web Project</h3>
+                <p>Immersive travel destination platform with dynamic booking flows.</p>
+                <a href="https://travel-web-project-seven.vercel.app/" target="_blank" rel="noreferrer" className="btn" style={{ padding: '0.4rem 0.8rem', fontSize: '0.8rem' }}>Initialize App</a>
+              </div>
             </div>
           </div>
 
